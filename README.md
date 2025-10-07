@@ -1,6 +1,6 @@
-# 🦾 Vader Panel — The Force in Your VS Code
+# 🦾 Darth Vader — The Force in Your VS Code
 
-Bring balance (and a bit of fun) to your coding galaxy with **Vader Panel** — a fully animated Darth Vader cheering you on while you code, right inside Visual Studio Code’s panel view. ⚡
+Bring balance (and a bit of fun) to your coding galaxy with **Darth Vader** — a fully animated Darth Vader cheering you on while you code, right inside Visual Studio Code’s panel view. ⚡
 
 ---
 
@@ -10,7 +10,7 @@ Bring balance (and a bit of fun) to your coding galaxy with **Vader Panel** — 
 - 💬 **Cheering Speech Bubbles** — random motivational or humorous Vader quotes appear as you code.
 - ⚡ **Dynamic Lightsaber** — with glowing animation and swing effects.
 - 🎨 **VS Code Theme Integration** — adapts automatically to your current color theme (dark/light).
-- 🪄 **Panel View Support** — opens neatly in the **Panel** (like “VS Code Pets”), not as a sidebar.
+- 🪄 **Panel View Support** — opens neatly in the **Panel** (like “VS Code Pets”), not as a sidebar. You can also drag the panel to left side under Explorer for better visibility.
 - 🧠 **Lightweight & Offline** — no external dependencies or internet required.
 
 > _"The Force is strong with this extension."_ — Darth Vader
@@ -19,8 +19,8 @@ Bring balance (and a bit of fun) to your coding galaxy with **Vader Panel** — 
 
 ## 🪐 How to Use
 
-1. **Open Command Palette** → `Ctrl+Shift+P` / `Cmd+Shift+P`
-2. Search for **“Activate Vader Panel”** and press **Enter**.
+1. **Open Extensions** 
+2. Search for **“Darth Vader”** and **Install** the extension.
 3. Watch Vader appear in your **bottom panel**, lightsaber blazing 🔴.
 4. Keep coding — Vader occasionally cheers you on.
 
@@ -54,8 +54,8 @@ Future updates may include options for:
 
 ## 🚀 Release Notes
 
-### 1.0.0
-- Initial release of **Vader Panel**
+### 0.0.1
+- Initial release of **Darth Vader**
 - Full-body animated Darth Vader
 - Bubble messages with theme adaptation
 - Lightsaber animations and motion loop
