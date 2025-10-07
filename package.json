@@ -18,7 +18,7 @@
   "activationEvents": [
     "onView:vaderView"
   ],
-  "icon": "media/dvader.svg",
+  "icon": "media/dvader.png",
   "contributes": {
     "viewsContainers": {
       "panel": [
