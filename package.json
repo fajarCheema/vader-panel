@@ -3,7 +3,7 @@
   "displayName": "Darth Vader - Star Wars",
   "publisher": "FajarCheema",
   "description": "A fun Darth Vader sidebar for VSCode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -20,7 +20,7 @@
   ],
   "contributes": {
     "viewsContainers": {
-      "activitybar": [
+      "panel": [
         {
           "id": "vader-panel-container",
           "title": "Vader",
