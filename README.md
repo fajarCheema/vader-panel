@@ -1,71 +1,83 @@
-# vader-panel README
+# 🦾 Vader Panel — The Force in Your VS Code
 
-This is the README for your extension "vader-panel". After writing up a brief description, we recommend including the following sections.
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Bring balance (and a bit of fun) to your coding galaxy with **Vader Panel** — a fully animated Darth Vader cheering you on while you code, right inside Visual Studio Code’s panel view. ⚡
 
 ---
 
-## Following extension guidelines
+## ✨ Features
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+- 🖤 **Animated Darth Vader** — rendered with pure HTML + CSS.
+- 💬 **Cheering Speech Bubbles** — random motivational or humorous Vader quotes appear as you code.
+- ⚡ **Dynamic Lightsaber** — with glowing animation and swing effects.
+- 🎨 **VS Code Theme Integration** — adapts automatically to your current color theme (dark/light).
+- 🪄 **Panel View Support** — opens neatly in the **Panel** (like “VS Code Pets”), not as a sidebar.
+- 🧠 **Lightweight & Offline** — no external dependencies or internet required.
 
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+> _"The Force is strong with this extension."_ — Darth Vader
 
-## Working with Markdown
+---
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🪐 How to Use
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. **Open Command Palette** → `Ctrl+Shift+P` / `Cmd+Shift+P`
+2. Search for **“Activate Vader Panel”** and press **Enter**.
+3. Watch Vader appear in your **bottom panel**, lightsaber blazing 🔴.
+4. Keep coding — Vader occasionally cheers you on.
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🧩 Requirements
 
-**Enjoy!**
+No extra setup needed.  
+Just install and run — works with all modern VS Code themes.
+
+---
+
+## ⚙️ Extension Settings
+
+This extension currently does not add user-configurable settings.  
+Future updates may include options for:
+
+- Vader’s quote frequency
+- Saber color (red, blue, green)
+- Sound effects toggle (coming soon 🎧)
+
+---
+
+## 🧱 Known Issues
+
+- On some very small editor heights, Vader may appear cropped.  
+  _(Resize your panel for best results.)_
+- High-DPI screens might render slight scaling differences.
+
+---
+
+## 🚀 Release Notes
+
+### 1.0.0
+- Initial release of **Vader Panel**
+- Full-body animated Darth Vader
+- Bubble messages with theme adaptation
+- Lightsaber animations and motion loop
+
+---
+
+## 💡 Contributing
+
+Pull requests are welcome!  
+If you’d like to add new animations, quotes, or themes, fork this repo and submit a PR.
+
+---
+
+## 🧭 Author
+
+Made with ❤️ and the Dark Side by [Fajar Cheema]  
+Follow me on GitHub: [https://github.com/fajarCheema](https://github.com/fajarCheema)
+
+---
+
+> “I find your lack of motivation… disturbing.” — Darth Vader
+
+---
+
+**Enjoy the power of the Force while you code.**
