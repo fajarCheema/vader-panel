@@ -1,6 +1,7 @@
 {
   "name": "vader-panel",
   "displayName": "vader-panel",
+  "publisher": "FajarCheema",
   "description": "A fun Darth Vader sidebar for VSCode",
   "version": "0.0.1",
   "engines": {
@@ -9,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fajarCheema/vader-panel.git"
+  },
   "main": "./dist/extension.js",
   "activationEvents": [
     "onView:vaderView"
